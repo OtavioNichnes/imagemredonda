@@ -5,8 +5,10 @@
     <title>fungos</title>
     <style> 
     background-image:url(floresta.png);
+    
     </style>
   </head>
   <body>
+<img src="funto.png" alt="fungo legal">
   </body> 
 </html>
