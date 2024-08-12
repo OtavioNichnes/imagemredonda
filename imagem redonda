@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <title>fungos</title>
     <style> 
+    body{
     background-image:url(floresta.png);
-    
+    }
+img{
+  width:400px;
+  height:400px;
+  border-radius:100px;
+}
     </style>
   </head>
   <body>
